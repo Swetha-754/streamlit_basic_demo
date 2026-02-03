@@ -1,0 +1,20 @@
+langchain 
+
+langchain-community
+
+streamlit
+
+langchain_ollama
+
+langchain_chroma
+ 
+
+ langchain_classic
+
+ pypdf
+
+wikipedia 
+
+
+ddgs
+ 
